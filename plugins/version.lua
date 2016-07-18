@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'virus tg v1 groups and Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDeveloper&manager and founder: @Influence 
+  return 'virus tg v1 groups and Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDeveloper&manager and founder: @mr_Influence 
 @vIRusTM_founder'
 @alfred_regular
 end
