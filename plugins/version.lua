@@ -1,20 +1,24 @@
---------------------------------------------------
---      ____  ____ _____                        --
---     |    \|  _ )_   _|___ ____   __  __      --
---     | |_  )  _ \ | |/ ·__|  _ \_|  \/  |     --
---     |____/|____/ |_|\____/\_____|_/\/\_|     --
---                                              --
---------------------------------------------------
---                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
---                                              --
---------------------------------------------------
+41FR3D R39U14R:
+AmouR فقط منم که I let it fall, my heart:
+------------------------------------------------—
+—      ____  ____ _____                        —
+—     |    \|  _ )_   _|___ ____   __  __      —
+—     | |_  )  _ \ | |/ •__|  _ \_|  \/  |     —
+—     |____/|____/ |_|\____/\_____|_/\/\_|     —
+—                                              —
+—------------------------------------------------
+—                                              —
+—       Developers: @Josepdal & @MaSkAoS       —
+—     Support: @Skneos,  @iicc1 & @serx666     —
+—                                              —
+—------------------------------------------------
 
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @MaSkAoS @Josepdal\nSupport: @skneos @iicc1 @Serx666\nChannels: @DBTeamEN @DBTeamES\n\nCheckout: https://github.com/Josepdal/DBTeam\nGNU GPL v2 license.'
+  return 'virus tg v1 groups and Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDeveloper&manager and founder: @Influence 
+@vIRusTM_founder'
+@alfred_regular
 end
 
 return {
